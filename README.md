@@ -21,11 +21,7 @@ This Python script uses the pandas and matplotlib libraries to plot current vers
     pip install pandas matplotlib numpy
     ```
 
-3. Run the Python script, providing the path to the CSV file as an argument:
-
-    ```bash
-    python script.py Thiago_COPRINUS_Au_02259_F_MAP.csv
-    ```
+3. Run the Python script, providing the path to the CSV file as an argument.
 
 4. The script will display a graph containing all individual curves and the average.
 
