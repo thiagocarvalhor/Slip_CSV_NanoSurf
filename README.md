@@ -20,7 +20,7 @@ This repository contains a Python script to split map curves from a CSV file gen
 
 - `Slit_Map_Curves_NanoSurf.py`: Python script to combine curves from the input CSV file.
 - `file.csv`: Sample input CSV file containing voltage and current data.
-- `curves_combined_F.csv`: Output CSV file containing combined curves data.
+- `curves_combined.csv`: Output CSV file containing combined curves data.
 
 ## Requirements
 
